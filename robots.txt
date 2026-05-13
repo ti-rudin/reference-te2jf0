@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ti-rudin.github.io/reference-te2jf0/sitemap.xml
